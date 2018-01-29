@@ -162,6 +162,7 @@ UPROGS=\
 	_cat\
 	_date\
 	_echo\
+	_ezsh\
 	_forktest\
 	_grep\
 	_init\
